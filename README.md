@@ -4,7 +4,7 @@
 
 Portfolio website with Three.js page transitions adapted on Elevnty. App link : [https://transition-zoom-effect-eleventy.vercel.app/](https://transition-zoom-effect-eleventy.vercel.app/).
 
-Before doing this project on Eleventy, I first did the project on Vite. The repository is available [here](https://github.com/killian-dv/transition-zoom-effect-eleventy).
+Before doing this project on Eleventy, I first did the project on Vite. The repository is available [here](https://github.com/killian-dv/transition-zoom-effect-threejs).
 
 ## Built With
 
