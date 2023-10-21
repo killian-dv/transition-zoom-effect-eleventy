@@ -1,8 +1,4 @@
 ---
 layout: homepage.liquid
-title: Horsin' Around
+title: Conquer the Desert
 ---
-
-# Welcome to Hollywoo
-
-Hello. I am BoJack. Horseman, obviously
